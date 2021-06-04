@@ -1,8 +1,78 @@
 ---
-title: "Samantha L Wilson"
-author: "Samantha L Wilson"
-date: "04/06/2021"
-output: html_document
+title: "Samantha Wilson,PhD"
+output:
+  rmdformats::material:
+    self_contained: false
+    fig_width: 15
+    fig_height: 16
+    thumbnails: false
+    lightbox: true
+    gallery: false
+    cold_folding: true
+    highlight: kate
 ---
 
-Test
+# Research interests
+![](./images/headshot.jpg)
+*Photo by Janaka Welihinda*
+
+I am a postdoctoral research fellow under Dr. Michael Hoffman at Princess Margaret Cancer Centre within the University Health Network (UHN). I previously completed my PhD in Medical Genetics at the University of British Columbia under Dr. Wendy Robinson.
+
+I am interested in omics data to understand the etiology of pregnancy and fetal pathologies and use that data to develop predictive models. Currently, I am working with bioinformatics and machine learning approaches to analyze high-dimentional data to give insights into pathogenesis and develop predictive signatures of preterm birth. I would like to use these data to build predictive signatures that will be usable in the clinical setting. 
+
+I am interested in integrating omics data in many types of pregnancy complications to increase our understanding of placental development through gestation, understand how pregnancy complications arise, how each of these complications relate to each other and the heterogeneity present within each clinical class of complication.
+
+# Publications
+
+*Original research*
+
+* Brockway,  H.B., **Wilson,  S.L.**, Kallapur,  S.K.,Buhimschi, C.S., Muglia, L.J., Jones, H.N. [Characterization  of methylation signatures in spontaneous preterm birth](https://www.biorxiv.org/content/10.1101/2021.04.26.441471v1?ct=).  **Submitted**.
+
+* **Wilson, S.L.**, Shen, S.Y., Harmon, L.M., Burgener, J., Triche, T., Bratman, S.V., De Carvalho, D.D., Hoffman,M.M. [Synthetic spike-in controls enable sensitive and reproducible cell-free methylome interrogation] (https://www.biorxiv.org/content/10.1101/2021.02.12.430289v1).**Submitted**.
+
+* Lee, Y., Choufani, S., Weksberg, R., **Wilson, S.L.**, Yuan, V., Robinson, W.P., Burt, A., Marsit C., Lu, A., Binder,A., Ritz, B., Bohlin, J., Gjessing, H., Harris, J., Magnus,P., Jugessur,A. Horvath,S. [Placental epigenetic clocks:estimating gestational age using placental DNA methylation levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6628997/}{Placental epigenetic clocks: estimating gestational age using placental DNA methylation levels.). *Aging*. 11 (12), 4238. 2019.
+
+* Konwar, C., Price, E.M., Wang, L.,**Wilson, S.L.**,Terry, J., Robinson, WP. [DNA methylation profiling of acutechorioamnionitis-associated  placentas  and  fetal  membranes:   insights  into  epigenetic  variation  in  spontaneouspreterm births](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-018-0234-9). *Epigenetics and Chromatin*. 11 (1), 63. 2018.
+
+* Leavey, K.,**Wilson, S.L.**, Robinson, W.P., Cox, B. [Epigenetic Regulation of Placental Gene Expression in Tran-scriptional Subclasses of Preeclampsia](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-018-0463-6). *Clinical Epigenetics*. 10 (1), 28. 2018.
+
+* Magee, L.A., Synnes  A., von Dadelszaen, P., Hutfield, A.,  Chainoine, J.P., Cote, A.M., Devlin, A., Dorling, J., Gafni, A., Ganzevoort, W., Gruslin, A., Helewa, M., Hutton, E., Koren,G., Lee, S.K., McArthur, D., Rey, E., Robinson, W.P.,  Roseboom, T., Singer, J., **Wilson  S.L.**, Moutquin, J.M., and CHIPS-Child  Study  consortium. [CHIPS-Child:  Testing the developmental programming hypothesis in the offspring of the CHIPS Trial](https://www.sciencedirect.com/science/article/pii/S2210778917305044). *Pregnancy and Hypertension*. 14, 15-22. 2017.
+
+* **Wilson, S.L.**, Leavey, K., Cox, B., Robinson, W.P. [Mining DNA methylation alteration towards classification ofplacental pathologies](https://academic.oup.com/hmg/article/27/1/135/4581994). *Human Molecular Genetics*. 27 (1), 135-146. 2017.
+
+* Barha, C.K., Salvante, K., Hanna, C.W., **Wilson, S.L.**, Robinson, W.P., Altman, R.M., Nepromnaschy, P. [Hypothalamic-pituitary-adrenal axis activity and cellular aging in mothers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177869). *PLOS One*. 12 (5), e0177869. 2016.
+
+* **Wilson, S.L.**, Liu, Y., Robinson, W.P. [Placental telomere length decline with gestational age differs by sex and TERT, DNMT1, and DNMT3A DNA methylation](https://www.sciencedirect.com/science/article/pii/S0143400416305392). *Placenta*. 48, 26-33. 2016.
+
+* Barha, C., Hanna, C.W., Salvante, K., **Wilson, S.L.**, Robinson, W.P., Nepromnaschy,P. [Number of Children andTelomere Length in Women: A Prospective, Longitudinal Evaluation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146424). *PLOS One*. 11 (1), e0146424. 2016.
+
+* **Wilson, S.L.**, Blair, J.D., Hogg, K., Langlois, S., von Dadelszen, P., Robinson, W.P. [Placental DNA methylation atterm reflects maternal serum levels of INHA, but not PAPPA or FN1, early in pregnancy](https://bmcmedgenet.biomedcentral.com/articles/10.1186/s12881-015-0257-z). *BMC Medical Genetics*. 16 (1), 111. 2015.
+
+*Reviews, proceedings, letters, and editorials*
+
+* **Wilson, S.L.** and Wallingford, M. Epigenetic regulation of molecular reproduction in human and animal models. *Molecular Human Reproduction*. **Invited piece, submitted**.
+
+* **Wilson, S.L.**, Way, G.P., Bittremieux, W., Armache, J-P., Haendel, M., Hoffman, M.M. [Sharing biological data:Why, when and how](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14067). *Federation of European Biochemical Societies Letters*. 595 (7), 847-863. 2021.
+
+* **Wilson, S.L.**, Robinson, W.P. [Utility of DNA methylation to assess placental health.](https://www.sciencedirect.com/science/article/pii/S014340041731233X). *Trophoblast Research*. 64, S23-S28. 2017.
+
+* Manokhina,  I., Konwar, C., Del  Gobbo, G.F., **Wilson, S.L.**, Robinson, W.P. [Placental  biomarkers  for  assessingfetal health.](https://www.sciencedirect.com/science/article/pii/S0143400417301054). *Human Molecular Genetics*. 26 (R2), R237-R245. 2017.
+
+* Albrecht, C., Baker, J.C., Blundell, C., Chavez, S.L., Carbone, L., Chamley, L. Hannibal, R.L., Illsley, N., Kurre,P., Laurent, L.C., McKenzie, C., Morales-Prieto, D., Pantham, P., Paquette, A., Powell, K., Price, N., Rao, BM.,Sadovsky, Y., Salomon, C., Tuteja, G., **Wilson, S.**, O’Tierney-Ginn, P.F. [IFPA meeting 2016 workshop report 1:Genomic communication, bioinformatics, trophoblast biology and transport systems](https://www.sciencedirect.com/science/article/pii/S0143400417301054). *Placenta*.  60, S5-S9.  2017.
+
+* Manokhina,  I., **Wilson,  S.L.**, Robinson,  W.P. [Non-invasive  nucleic-acid  based  approaches  to  monitor  placentalhealth in pregnancy](https://www.sciencedirect.com/science/article/pii/S0002937815007462}{Non-invasive nucleic-acid based approaches to monitor placental health in pregnancy.). *American Journal of Obstetics and Gynecology*. 213 (4), S197-S206. 2015.
+
+* Cohen, ASA., **Wilson, S.L.**, Trinh, J., Ye, X.C. [Detecting Somatic Mosaicism:  Considerations and Clinical Implications](https://onlinelibrary.wiley.com/doi/abs/10.1111/cge.12502?casa_token=u9EROHKqpvQAAAAA:5_fVGhyhGypSlDGqg5G9res0Nth_MOoatJZoNWN-Io0DKqGLvETE4gVbqxZBcV_479BPhlrTdMOGFbPw). *Clinical Genetics*. 87 (6), 554-562. 2014.
+
+*Book chapters*
+
+* Robinson, W.P., Penaherrera, M.S., Konwar, C., Yuen, V., **Wilson, SL.**. [Epigenetic Modifications in the Human Placenta](https://www.sciencedirect.com/science/article/pii/B9780128135709000139). *Human Reproductive and Prenatal Genetics* .Elsevier. 293-311. 2019
+
+*Theses*
+
+* **Wilson, S.L.** [Genetic and  epigenetic profiling of placental insufficiency:  identifying  biomarkers of preeclampsia and intrauterine growth restriction](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0361940). University of British Columbia. 2017
+
+# Funding and awards
+# Media
+# Social links
+# Contact information
