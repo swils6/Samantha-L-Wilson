@@ -73,6 +73,12 @@ I am interested in integrating omics data in many types of pregnancy complicatio
 * **Wilson, S.L.** [Genetic and  epigenetic profiling of placental insufficiency:  identifying  biomarkers of preeclampsia and intrauterine growth restriction](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0361940). University of British Columbia. 2017
 
 # Funding and awards
+
+# Disclosures
+
+**Patent Applications**
+International  Patent  Application  No. PCT/CA2020/051507  SYNTHETIC  SPIKE-IN  CONTROLS  FOR  CELL-FREE MEDIP SEQUENCING AND METHODS OF USING SAME. November 6, 2020.
+
 # Media
 # Social links
 # Contact information
