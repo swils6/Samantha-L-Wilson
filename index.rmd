@@ -31,7 +31,7 @@ I am interested in integrating omics data in many types of pregnancy complicatio
 
 * Brockway,  H.B., **Wilson,  S.L.**, Kallapur,  S.K.,Buhimschi, C.S., Muglia, L.J., Jones, H.N. [Characterization  of methylation signatures in spontaneous preterm birth](https://www.biorxiv.org/content/10.1101/2021.04.26.441471v1?ct=).  **Submitted**.
 
-* **Wilson, S.L.**, Shen, S.Y., Harmon, L.M., Burgener, J., Triche, T., Bratman, S.V., De Carvalho, D.D., Hoffman,M.M. [Synthetic spike-in controls enable sensitive and reproducible cell-free methylome interrogation] (https://www.biorxiv.org/content/10.1101/2021.02.12.430289v1).**Submitted**.
+* **Wilson, S.L.**, Shen, S.Y., Harmon, L.M., Burgener, J., Triche, T., Bratman, S.V., De Carvalho, D.D., Hoffman,M.M. [Synthetic spike-in controls enable sensitive and reproducible cell-free methylome interrogation](https://www.biorxiv.org/content/10.1101/2021.02.12.430289v1).**Submitted**.
 
 * Lee, Y., Choufani, S., Weksberg, R., **Wilson, S.L.**, Yuan, V., Robinson, W.P., Burt, A., Marsit C., Lu, A., Binder,A., Ritz, B., Bohlin, J., Gjessing, H., Harris, J., Magnus,P., Jugessur,A. Horvath,S. [Placental epigenetic clocks:estimating gestational age using placental DNA methylation levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6628997/}{Placental epigenetic clocks: estimating gestational age using placental DNA methylation levels.). *Aging*. 11 (12), 4238. 2019.
 
