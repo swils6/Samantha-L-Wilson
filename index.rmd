@@ -53,7 +53,7 @@ I am interested in integrating omics data in many types of pregnancy complicatio
 
 *Reviews, proceedings, letters, and editorials*
 
-* **Wilson, S.L.** and Wallingford, M. Epigenetic regulation of molecular reproduction in human and animal models. *Molecular Human Reproduction*. **Invited piece, submitted**.
+* **Wilson, S.L.** and Wallingford, M. [Epigenetic regulation of molecular reproduction in human and animal models](https://academic.oup.com/molehr/article-abstract/27/7/gaab041/6329199). *Molecular Human Reproduction*. 7(7), gaab041. 2021.
 
 * **Wilson, S.L.**, Way, G.P., Bittremieux, W., Armache, J-P., Haendel, M., Hoffman, M.M. [Sharing biological data:Why, when and how](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14067). *Federation of European Biochemical Societies Letters*. 595 (7), 847-863. 2021.
 
@@ -113,6 +113,10 @@ Role: Co-investigator.
 # Awards
 
 **Presentation awards**
+
+* *Elsevier Placenta New Investigator Award*, International Federation of Placenta Association.
+Best oral presentation at the IFPA 2021 meeting.
+2021
 
 * *JW Knox Ritchie Research Award*, University of Toronto, Department of Obstetrics and Gynecology.
 Best poster presentation by a postdoctoral fellow.
